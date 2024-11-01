@@ -1,0 +1,17 @@
+{
+    "name": "synelixis/synfield-smart-agriculture-plugin",
+    "description": "SynField Smart Agriculture Plugin",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Panagiotis Athanasoulis",
+            "email": "athanasoulis@synelixis.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"SynField\\": "./include"}
+    }
+}

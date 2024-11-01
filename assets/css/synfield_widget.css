@@ -1,0 +1,87 @@
+.synfield_smart_agriculture_widget_container {
+    line-height: 1.5 !important;
+}
+
+.synfield_smart_agriculture_widget_body {
+    background-color: white !important;
+    color: #262626 !important;
+}
+
+.synfield_smart_agriculture_location {
+    text-align: center !important;
+    background-color: #59b192 !important;
+    color: whitesmoke !important;
+    font-size: large !important;
+    font-weight: 500 !important;
+}
+
+.synfield_smart_agriculture_table {
+    margin-bottom: 0.5em !important;
+}
+
+.synfield_smart_agriculture_head_tr {
+    border-bottom: 1px solid #eee !important;
+    border-top: 1px solid #eee !important;
+    background-color: white !important;
+    color: #262626 !important;
+}
+
+.synfield_smart_agriculture_body_tr_no_border {
+    /*border: none !important;*/
+    border: 3px solid #f5f5f5 !important;
+}
+
+.synfield_smart_agriculture_font_xsm {
+    font-size: x-small !important;
+}
+
+.synfield_smart_agriculture_font_sm {
+    font-size: small !important;
+}
+
+.synfield_smart_agriculture_font_lg {
+    font-size: large !important
+}
+
+.synfield_smart_agriculture_high_color {
+    color: green !important
+}
+
+.synfield_smart_agriculture_low_color {
+    color: red !important;
+}
+
+.synfield_smart_agriculture_powered_by {
+    font-size: small !important;
+    margin-top: -15px !important;
+    text-align: center !important;
+    background-color: #59b192 !important;
+    color: whitesmoke !important;
+}
+
+.synfield_smart_agriculture_a_href,
+.synfield_smart_agriculture_a_href a:visited,
+.synfield_smart_agriculture_a_href a:active,
+.synfield_smart_agriculture_a_href a:hover,
+.synfield_smart_agriculture_a_href a:focus {
+    color: whitesmoke !important;
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+table.synfield_smart_agriculture_table tr.synfield_smart_agriculture_table_row:hover td{
+    background-color: rgba(211, 211, 211, 0.38) !important
+}
+
+.synfield_text_black{
+    color: #4a4a4a !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-middle {
+    vertical-align: middle !important;
+}

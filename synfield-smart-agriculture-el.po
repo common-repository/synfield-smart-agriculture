@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SynField Weather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-07 11:56+0000\n"
+"PO-Revision-Date: 2019-11-07 11:56+0000\n"
+"Last-Translator: athanasp <athanasoulis@synelixis.com>\n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: templates/admin.php:2
+msgid "SynField Smart Agriculture Plugin"
+msgstr ""
+
+#: templates/admin.php:7
+msgid "Smart Agriculture Widget Cache Cleared"
+msgstr ""
+
+#: templates/admin.php:12
+msgid "Manage Settings"
+msgstr "Διαχείριση Ρυθμίσεων"
+
+#: templates/admin.php:13 templates/admin.php:25
+msgid "About"
+msgstr "Σχετικά"
+
+#: include/Base/SettingsLinks.php:32
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: include/Pages/Admin.php:111
+msgid "SynField APP ID"
+msgstr ""
+
+#: include/Pages/Admin.php:121
+msgid "Error Handling"
+msgstr "Διαχείριση σφάλματος"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:124
+msgid "Temperature"
+msgstr "Θερμοκρασία"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:125
+msgid "Humidity"
+msgstr "Υγρασία"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:126
+msgid "Rain"
+msgstr "Βροχόπτωση"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:127
+msgid "Wind"
+msgstr "Άνεμος"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:167
+msgid "monthly"
+msgstr "μηνιαίως"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:187
+msgid "yearly"
+msgstr "ετησίως"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:197
+msgid "Smart agriculture solutions"
+msgstr "Λύσεις έξυπνης γεωργίας"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:242
+msgid "South"
+msgstr "Νότιος"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:244
+msgid "Southwest"
+msgstr "Νοτιοδυτικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:246
+msgid "West"
+msgstr "Δυτικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:248
+msgid "Northwest"
+msgstr "Βορειοδυτικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:250
+msgid "North"
+msgstr "Βόρειος"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:252
+msgid "Northeast"
+msgstr "Βορειοανατολικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:254
+msgid "East"
+msgstr "Ανατολικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:256
+msgid "Southeast"
+msgstr "Νοτιοανατολικός"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:290
+msgid ""
+"SynField Smart Agriculture requires an APP ID key to access their sensed "
+"data."
+msgstr ""
+"To SynField Smart Agriculture plugin χρειάζεται το APP ID κλειδί  για να "
+"προσπελάσει τις μετρήσεις του σταθμού σας."
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:292
+msgid "Get your APPID"
+msgstr "Αποκτήστε το APPID"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:303
+msgid "Type your Serial Number:"
+msgstr "Εισάγετε το Σειριακό Αριθμό"
+
+#: include/Api/Widgets/SmartAgricultureWidget.php:304
+msgid "(e.g.: 9342424294823942343)"
+msgstr "(π.χ. 9342424294823942343)"
+
+#. Name of the plugin
+msgid "SynField Smart Agriculture"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enable the data visualization of SynField nodes in a widget."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.synfield.gr"
+msgstr ""
+
+#. Author of the plugin
+msgid "Synelixis Solutions"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.synelixis.com"
+msgstr ""
